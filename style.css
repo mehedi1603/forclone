@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url('background.jpg');
+  background-repeat: no-repeat;
+  background-size: 1400px 1000px;
+}
+
+.container {
+  text-align: center;
+  padding: 100px;
+  background-color:;
+}
+
+h1 {
+  font-size: 36px;
+  color: white;
+}
+
+p {
+  font-size: 18px;
+  color: red;
+}
